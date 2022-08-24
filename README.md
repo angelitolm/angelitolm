@@ -20,8 +20,6 @@ I have experience in various programming languages ​​and various technologie
 <br />
 
 ### Skills
-C++, Java, PHP, JavaScript, HTML, CSS, JQuery, ExtJS, ReactJS, NodeJS, ExpressJS, Booostrap, Tailwindcss, Ant Design, Material UI, Storybook, NextJs, Vue, Typescript, Symfony, React Native, Git, GitLab, GitHub, PostgreSQL, MySQL, Twig, Less, Sass
-
 <p align="left">
 <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
 <img src="https://isocpp.org/assets/images/cpp_logo.png" width="36" height="36" alt="C++" />
@@ -30,7 +28,7 @@ C++, Java, PHP, JavaScript, HTML, CSS, JQuery, ExtJS, ReactJS, NodeJS, ExpressJS
 <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Emblem-500x313.jpg" width="36" height="36" alt="Java" />
 </a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-<img src="https://www.php.net/images/logos/php-logo.svg" width="36" height="36" alt="PHP" />
+<img src="https://www.kindpng.com/picc/m/11-118738_php-logo-png-circle-transparent-png.png" width="36" height="36" alt="PHP" />
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" />
@@ -87,7 +85,7 @@ C++, Java, PHP, JavaScript, HTML, CSS, JQuery, ExtJS, ReactJS, NodeJS, ExpressJS
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" />
 </a>
 <a href="https://lesscss.org/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LESS_Logo.svg/1200px-LESS_Logo.svg.png" width="36" height="36" alt="Less" />
+<img src="https://pbs.twimg.com/profile_images/688424432419799040/3ihJTwIE_400x400.png" width="36" height="36" alt="Less" />
 </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="36" height="36" alt="Git" />
