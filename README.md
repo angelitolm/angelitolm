@@ -50,8 +50,8 @@ C++, Java, PHP, JavaScript, HTML, CSS, JQuery, ExtJS, ReactJS, NodeJS, ExpressJS
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
   <img src="https://assets-global.website-files.com/6009f6f109d51e60b911ba53/60232c7fee9f278674db9c2c_9kib-354x415-unnamed-mongodb-logo-sv-11562860723mgempnmrq3.png" width="36" height="36" alt="MongoDB" />
 </a>
-<a href="http://expressjs.com/es/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.buttercms.com/4XpulFfySpWyYTXuaVL2" width="36" height="36" alt="ExpressJS" />
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" />
 </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="ReactJS" />
@@ -70,12 +70,6 @@ C++, Java, PHP, JavaScript, HTML, CSS, JQuery, ExtJS, ReactJS, NodeJS, ExpressJS
 </a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
-</a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" />
-</a>
-<a href="https://supabase.io/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" />
 </a>
 </p>
 
