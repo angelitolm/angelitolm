@@ -15,7 +15,7 @@ Software quality, scalability and Service Oriented Architecture are subjects tha
 
 Generally speaking, I love working and sharing on topics related to software architecture and software quality. I like to see myself as a passionate developer, an Open Source enthusiast and an eternal learner.
 
-I have experience in various programming languages ​​and various technologies, which I have matured over the years. I am currently a senior developer at Dofleini software.
+I have experience in various programming languages ​​and various technologies, which I have matured over the years. I am currently a Senior Software Engineer at Dofleini software.
 
 <br />
 
@@ -116,3 +116,9 @@ I have experience in various programming languages ​​and various technologie
 
 <br />
 <br />
+
+### My GitHub Stats
+<a href="http://www.github.com/angelitolm"><img src="https://github-readme-stats.vercel.app/api?username=angelitolm&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="angelitolm's GitHub stats" /></a>
+<a href="http://www.github.com/angelitolm"><img src="https://github-readme-streak-stats.herokuapp.com/?user=angelitolm&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/angelitolm"><img src="https://activity-graph.herokuapp.com/graph?username=angelitolm&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="https://github.com/angelitolm" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelitolm&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
