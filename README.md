@@ -23,42 +23,60 @@ I have experience in various programming languages ​​and various technologie
 C++, Java, PHP, JavaScript, HTML, CSS, JQuery, ExtJS, ReactJS, NodeJS, ExpressJS, Booostrap, Tailwindcss, Ant Design, Material UI, Storybook, NextJs, Vue, Typescript, Symfony, React Native, Git, GitLab, GitHub, PostgreSQL, MySQL, Twig, Less, Sass
 
 <p align="left">
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img src="https://isocpp.org/assets/images/cpp_logo.png" width="36" height="36" alt="C++" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-  </a>
-   <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" />
-  </a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
-  </a>
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" />
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
-  </a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" />
-  </a>
-  <a href="https://supabase.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" />
-  </a>
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+  <img src="https://isocpp.org/assets/images/cpp_logo.png" width="36" height="36" alt="C++" />
+</a>
+<a href="https://www.java.com/es/" target="_blank" rel="noreferrer">
+  <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Emblem-500x313.jpg" width="36" height="36" alt="Java" />
+</a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer">
+  <img src="https://www.php.net/images/logos/php-logo.svg" width="36" height="36" alt="PHP" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
+</a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
+</a>
+<a href="https://jquery.com/" target="_blank" rel="noreferrer">
+  <img src="https://jquery.com/jquery-wp-content/themes/jquery/images/logo-jquery.png" width="36" height="36" alt="JQuery" />
+</a>
+<a href="https://www.sencha.com/products/extjs/" target="_blank" rel="noreferrer">
+  <img src="http://existdissolve.files.wordpress.com/2010/06/sencha-logo.png" width="36" height="36" alt="ExtJS" />
+</a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <img src="https://assets-global.website-files.com/6009f6f109d51e60b911ba53/60232c7fee9f278674db9c2c_9kib-354x415-unnamed-mongodb-logo-sv-11562860723mgempnmrq3.png" width="36" height="36" alt="MongoDB" />
+</a>
+<a href="http://expressjs.com/es/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.buttercms.com/4XpulFfySpWyYTXuaVL2" width="36" height="36" alt="ExpressJS" />
+</a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="ReactJS" />
+</a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
+</a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" />
+</a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
+</a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" />
+</a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
+</a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" />
+</a>
+<a href="https://supabase.io/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" />
+</a>
 </p>
 
 <br />
