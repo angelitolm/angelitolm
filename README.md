@@ -1,10 +1,5 @@
 ### Hi there, I'm Angel! 👋
 
-<!--
-**angelitolm/angelitolm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently a Senior Software Developer at Dofleini Software
 - 🌱 currently learning advanced concepts of React Native
 - 💬 Ask me about anything [here](https://github.com/angelitolm/angelitolm/issues)
@@ -36,4 +31,3 @@ Skills/Interests: C++, Java, PHP, JavaScript, HTML, CSS, JQuery, ExtJS, ReactJS,
 
 <br />
 <br />
--->
