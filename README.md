@@ -42,7 +42,7 @@ C++, Java, PHP, JavaScript, HTML, CSS, JQuery, ExtJS, ReactJS, NodeJS, ExpressJS
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
 </a>
 <a href="https://jquery.com/" target="_blank" rel="noreferrer">
-  <img src="https://jquery.com/jquery-wp-content/themes/jquery/images/logo-jquery.png" width="36" height="36" alt="JQuery" />
+  <img src="https://miro.medium.com/max/285/1*QR2SBNwG75LyY5uwqWpN3A.png" width="36" height="36" alt="JQuery" />
 </a>
 <a href="https://www.sencha.com/products/extjs/" target="_blank" rel="noreferrer">
   <img src="http://existdissolve.files.wordpress.com/2010/06/sencha-logo.png" width="36" height="36" alt="ExtJS" />
