@@ -21,7 +21,7 @@ Generally speaking, I love working and sharing on topics related to software arc
 
 I have experience in various programming languages ​​and various technologies, which I have matured over the years. I am currently a Senior Software Engineer at Dofleini software.
 
-*   🌍  I'm based in Cuba
+*   🌍  I'm based in Havana, Cuba
 *   🧠  I'm learning React Native
 
 <br />
