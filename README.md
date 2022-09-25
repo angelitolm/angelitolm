@@ -1,4 +1,4 @@
-[![Header](https://github.com/angelitolm/angelitolm/blob/main/banner.jpg "Header")](https://github.com/angelitolm)
+[![Header](https://github.com/angelitolm/angelitolm/blob/main/banner-2.jpg "Header")](https://github.com/angelitolm)
 
 # Hello, folks! <img src="https://github.com/angelitolm/angelitolm/blob/main/wave.gif" width="30px" height="30px" />
 
