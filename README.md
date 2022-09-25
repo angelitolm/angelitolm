@@ -1,4 +1,4 @@
-Hi 👋 My name is Angel Labrada Massó
+# Hello, folks! <img src="https://https://github.com/angelitolm/angelitolm/edit/main/wave.gif" width="30px" height="30px" />
 ====================================
 
 Senior Software Engineer
