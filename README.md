@@ -11,6 +11,8 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=angelitolm" alt="angelitolm" />
   </a> 
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=angelitolm&theme=onedark)](https://github.com/angelitolm)
 </p>
 
 ### About me
