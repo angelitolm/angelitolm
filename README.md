@@ -7,12 +7,14 @@
 - 💬 Ask me about anything [here](https://github.com/angelitolm/angelitolm/issues)
 - ⚡ Fun fact: I love play baseball
 
+<div style="text-align: center">
+  [![trophy](https://github-profile-trophy.vercel.app/?username=angelitolm&theme=onedark)](https://github.com/angelitolm)
+</div>
+
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=angelitolm" alt="angelitolm" />
   </a> 
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=angelitolm&theme=onedark)](https://github.com/angelitolm)
 </p>
 
 ### About me
