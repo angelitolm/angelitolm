@@ -3,7 +3,7 @@
 # Hello, folks! <img src="https://github.com/angelitolm/angelitolm/blob/main/wave.gif" width="30px" height="30px" />
 
 - 🔭 I’m currently working on [Dofleini Software]([https://github.com/angelitolm/angelitolm/issues](https://www.dofleini.com/))
-- 🌱 currently learning advanced concepts of React Native
+- 🌱 Currently learning advanced concepts of React Native
 - 💬 Ask me about anything [here](https://github.com/angelitolm/angelitolm/issues)
 - ⚡ Fun fact: I love play baseball
 
